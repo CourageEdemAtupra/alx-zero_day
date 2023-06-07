@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ALX" >> bash/alx
+echo "ALX School is so cool!" >> bash/alx
 
 clear
 clear
@@ -12,4 +12,4 @@ clear
 
 
 root@76fe13971a85:/alx-zero_day# echo echo ALX
-echo "ALX"
+echo "ALX School is so cool!"
